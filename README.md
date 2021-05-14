@@ -6,4 +6,4 @@ This project is completely framed using HTML and CSS and there were various func
 
 this Game will help you to get a good command over RGB topic.
 
-[!Click](https://kishankunal.github.io/The-Great-RGB-Geussing-Game/) to see live demo RGB_GAME
+[Click](https://kishankunal.github.io/The-Great-RGB-Geussing-Game/) to see live demo 
